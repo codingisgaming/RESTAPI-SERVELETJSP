@@ -74,5 +74,5 @@ Une fois Tomcat démarré, l'application est accessible aux URLs suivantes :
 
 ##  Vidéo de Démonstration
 
->  **Lien vers la vidéo** : *Bientôt disponible*
+>  **Lien vers la vidéo** : *B[ientôt disponible](https://drive.google.com/file/d/1vGXuRZ-mk9g0X3jJtlMeGZALa33_4Ped/view?usp=sharing)*
 > **Lien vers GITHUb  repo** : https://github.com/codingisgaming/RESTAPI-SERVELETJSP
